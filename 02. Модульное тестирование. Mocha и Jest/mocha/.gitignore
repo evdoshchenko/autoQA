@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules/       //игнорировать загрузку тяжелых папок 200-500мб
+/node_modules       //игнорировать загрузку тяжелых папок 200-500мб
 /.pnp
 .pnp.js
 
