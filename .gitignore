@@ -3,7 +3,6 @@
 # dependencies
 /node_modules       //игнорировать загрузку тяжелых папок 200-500мб
 /.pnp
-/codecept
 .pnp.js
 
 # testing
